@@ -262,12 +262,12 @@
 #260# Afficher l'équipage du vaisseau actuel. Les membres de l'équipage peuvent être déplacés en utilisant le glisser-déposer.
 #261# Afficher les connecteurs
 #262# Afficher les connecteurs de ressources pour le vaisseau actuel. Si le module nécessite des ressources spécifiques, il doit être connecté à ces dernières en utilisant ce mode. Les connecteurs peuvent être attachés aux modules en utilisant le glisser-déposer.
-#263# Afficher les points de montage
-#264# Afficher les points de montage pour le vaisseau actuel. Les points de montage peuvent être connectés ou déconnectés par un clic gauche.
-#265# Afficher le centre de masse pour le vaisseau actuel.
-#266# Vérrouiller le SCR
+#263# Afficher les points d'attaches
+#264# Afficher les points d'attaches du vaisseau actuel. Les points d'attache peuvent être connectés ou déconnectés par un clic gauche.
+#265# Afficher le centre de masse du vaisseau actuel.
+#266# Vérrouiller le RCS
 #267# Stabiliser la rotation du vaisseau en utilisant ses moteurs.
-#268# Si activé - sélectionnez votre navire et cliquez avec le bouton droit de la souris pour envoyer un ordre de mouvement
+#268# Si activé - sélectionnez votre vaisseau et faite un clic droit pour ordonner un mouvement
 #269# Afficher les dégats
 #270# Afficher temporairement l'intégrité du vaisseau
 #271# Rotate locker
