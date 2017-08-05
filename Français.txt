@@ -1,5 +1,5 @@
 ﻿
-#0# Nouvelle partie
+#0# Démarrer un Serveur
 #1# Partie multijoueurs
 #2# Options
 #3# L'équipe de développement
@@ -7,7 +7,7 @@
 #5# Continuer
 #6# Pause
 #7# Options
-#8# Enregistrer
+#8# Sauvegarder
 #9# Quitter
 #10# Ressusciter
 #11# ! ACCES ANTICIPÉ !
@@ -16,8 +16,8 @@
 #14# Discussions (→)
 #15# Guides (→)
 #16# A faire (→Trello)
-#17# Etes-vous sûr de vouloir quitter?
-#18# Oui
+#17# Etes-vous sûr ?
+#18# Quitter
 #19# Annuler
 #20# Connection directe
 #21# Via Steam (A venir)
@@ -26,7 +26,7 @@
 #24# Enregistrer
 #25# Défaut
 #26# Appliquer
-#27# Volume sonore
+#27# Audio
 #28# Global
 #29# Musique
 #30# Jeu
@@ -41,8 +41,8 @@
 #39# Anti-crénelage
 #40# V-Sync
 #41# Résolution
-#42# Pressez une touche à définir ou Echap. pour quitter
-#43# Enregistrer
+#42# Pressez la touche à définir ou Echap. pour quitter
+#43# Sauvegarder
 #44# Défaut
 #45# Raccourcis clavier
 #46# Sélectionnez une partie enregistrée
@@ -54,75 +54,75 @@
 #52# Veuillez confirmer la suppression de la partie
 #53# Retour
 #54# Effacer
-#55# Port n°
+#55# Port 
 #56# Mot de passe
-#57# Nb joueurs
+#57# Nb joueurs Max
 #58# Effacer
-#59# Ouvrir
+#59# Charger
 #60# Chargement...
 #61# Connection...
 #62# Nom partie
-#63# Port n°
+#63# Port 
 #64# Mot de passe
-#65# Nb joueurs
+#65# Nb joueurs Max
 #66# Mode 'bac à sable'
 #67# Nombre de station
 #68# Nombre d'ennemi
 #69# Nombre d'astéroide
-#70# Démarrer
+#70# Nouvelle Partie
 #71# Retour
 #72# Démarrer
 #73# Joindre partie multijoueurs
 #74# IP
-#75# Port n°
+#75# Port 
 #76# Mot de passe
 #77# Joindre
 #78# Sélection du serveur
 #79# Ajout. aux favoris
-#80# Confirmer la suppression
+#80# Confirmer la suppression du serveur
 #81# Retour
 #82# Nom
 #83# IP
-#84# Port n°
+#84# Port 
 #85# Mot de passe
 #86# Effacer
-#87# Rejoindre
-#88# Enregistrer
+#87# Joindre
+#88# Sauvegarder
 #89# Editer
 #90# Langue
 #91# Pause
-#92# Rotat.
-#93# Vue
+#92# Vérrouiller rotat.
+#93# Centrage de la caméra
 #94# Véloc.
 #95# Grille
 #96# Commerc.
 #97# Construire
 #98# Déconstruire
 #99# Outils bac à sable
-#100# Nouvelle ressource
+#100# Ajouter ressources
 #101# Oxygène
 #102# Hydrogène
 #103# Xénon
 #104# Missile
 #105# Energie
 #106# Nourriture
-#107# Membre
-#108# Intel. Artif. (IA)
-#109# Dupliquer vaisseau
-#110# Définir allier
-#111# Définir ennemi
+#107# Equipage
+#108# IA
+#109# Dupliquer le vaisseau
+#110# Définir comme allier
+#111# Définir comme ennemi
 #112# Créer vaiss. ennemi
-#113# Ajouter IA au vaiss.
+#113# Ajouter une IA au vaiss.
 #114# Pilote Auto.
 #115# Physique
-#116# Effacer vaisseau
-#117# Désactiver mouvements orbitaux
-#118# Définir trajectoire de vol
+#116# Effacer le vaisseau
+#117# Désactiver les méchaniques orbitals
+#118# Définir plannificateur de trajectoire
 #119# Mode lancer de débris
 #120# Appliquer
 #121# Annuler
 #122# Pressez une touche
-#123# Définir une touche
+#123# Définir une nouvelle touche
 #124# Distance
 #125# Vélocité relative
 #126# Joueur
@@ -135,12 +135,12 @@
 #133# Armes
 #134# Tourelles
 #135# Propulsion
-#136# Membre d'équipage
+#136# Info sur membre d'équipage
 #137# Santé
 #138# Nourriture
 #139# Morale
 #140# Démarrage
-#141# Le tutoriel de prise en main n'est pas encore disponible, il est préférable de consulter la version en ligne créé par la communauté sur Steam (rubrique 'Guides...')
+#141# Le tutoriel n'est pas terminé, il est préférable de consulter la version en ligne créé par un membre de la communauté sur Steam (rubrique 'Guides...')
 #142# Ouvrir le guide
 #143# Commerce
 #144# Nom
@@ -149,17 +149,17 @@
 #147# Achat
 #148# Vente
 #149# Vaisseau précédent
-#150# Prochain vaisseau
+#150#  Vaisseau suivant
 #151# Masse totale
 #152# Moment d'inertie
 #153# Masse du module
 #154# Non-connecté à une réserve d'énergie
 #155# Consom. énergie
-#156# Attacher
-#157# Détacher
+#156# Détacher
+#157# Attacher
 #158# Glisser pour transférer
 #159# Clic droit: Vendre
-#160# Acheter: Glisser-déposer dans conteneur
+#160# Acheter: Glisser-déposer dans le conteneur
 #161# Déposer pour transférer
 #162# Maintenir Shift pour définir une quantité
 #163# Déposer pour acheter
@@ -172,7 +172,7 @@
 #170# Masse
 #171# Ejecter
 #172# Clic droit
-#173# Effacer raccourci clavier
+#173# Réinitialiser raccourci clavier
 #174# Ctrl + Clic droit: Déconstruire
 #175# Ctrl + Clic droit: Déconstruire
 #176# Carbone
@@ -195,19 +195,19 @@
 #193# Missile
 #194# Energie
 #195# Nourriture
-#196# Pas de ressource sans nom
-#197# Impossible d'ouvrir le menu Construire
+#196# Pas de ressource avec ce nom
+#197# Impossible d'ouvrir le menu construction
 #198# Le vaisseau actuel ne possède pas de module de construction
 #199# Plus de nourriture !
-#200# Pas de nourriture à bord de ce vaisseau !
+#200# Impossible de trouver de la nourriture à bord de ce vaisseau !
 #201# Mort de faim
 #202# est mort de faim !
 #203# Avertissement !
 #204# Le dernier module de commande ne peut être déconstruit !
-#205# Pilote automatique désactivé par l'action du joueur
+#205# Pilote automatique désactivé par intervention manuel
 #206# Le 'Warp drive' n'est pas encore prêt
 #207# Impossible de tirer ! 
-#208# Le lanceur de missile n'est pas connecté à un stockage de munitions
+#208# Le lance missile n'est pas connecté à un dépôt de munition
 #209# Impossible de tirer !
 #210# Pas de munition disponible
 #211# Pilote autom. activé
@@ -219,14 +219,14 @@
 #217# Raccourcis:
 #218# Nom racc.:
 #219# Gauche:
-#220# Autorisé par le serveur seulement
-#221# Partie enregistrée
-#222# ! ERREUR ENREGISTREMENT !
-#223# Enregistrement impossible suite à une erreur interne
+#220# Seul le serveur peu faire ça
+#221# Partie sauvegardé
+#222# ! ERREUR SAUVEGARDE !
+#223# Sauvegarde impossible suite à une erreur interne
 #224# Crédit insuffisant
-#225# Les vaisseaux ne peuvent être amarrés ensemble
-#226# Stockage plein
-#227# Le vendeur ne demande pas cette ressource
+#225# Les vaisseaux peuvent être amarrés ensemble
+#226# Stockage est vide
+#227# Ce vendeur n'a pas de demande
 #228# Impossible de vendre, le stockage est plein
 #229# unités de
 #230# ont été vendu(e)s pour
@@ -255,10 +255,10 @@
 #253# Prendre contrôle du vaisseau disponible précédent
 #254# Prendre contrôle du prochain vaisseau disponible
 #255# Réinitialiser la durée
-#256# Réduire la durée
-#257# Augmenter la durée
+#256# Réduire l'échelle de temps
+#257# Augmenter l'échelle de temps
 #258# Afficher les stockages
-#259# Afficher le contenu de tous les conteneurs de stockage du vaisseau actuel. Le contenu peut être déplacé entre les conteneurs en utilisant le glisser-déposer avec le bouton gauche de la souris. En maintenant le bouton Shift-Gauche vous pouvez transférer une quantité spécifique de ressources.
+#259# Afficher le contenu de tous les conteneurs de stockage du vaisseau actuel. Le contenu peut être déplacé entre les conteneurs en utilisant le glisser-déposer avec le bouton gauche de la souris. En maintenant la touche Shift-Gauche vous pouvez transférer une quantité spécifique de ressources.
 #260# Afficher l'équipage du vaisseau actuel. Les membres de l'équipage peuvent être déplacés en utilisant le glisser-déposer.
 #261# Afficher les connecteurs
 #262# Afficher les connecteurs de ressources pour le vaisseau actuel. Si le module nécessite des ressources spécifiques, il doit être connecté à ces dernières en utilisant ce mode. Les connecteurs peuvent être attachés aux modules en utilisant le glisser-déposer.
