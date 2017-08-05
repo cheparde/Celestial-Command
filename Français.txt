@@ -219,7 +219,7 @@
 #217# Raccourcis:
 #218# Nom racc.:
 #219# Gauche:
-#220# Seul le serveur peu faire ça
+#220# Autorisé pour le serveur seulement
 #221# Partie sauvegardé
 #222# ! ERREUR SAUVEGARDE !
 #223# Sauvegarde impossible suite à une erreur interne
