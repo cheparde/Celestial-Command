@@ -72,7 +72,7 @@
 #70# Démarrer
 #71# Retour
 #72# Démarrer
-#73# Joindre partie multijoueurs
+#73# Rejoindre partie multijoueurs
 #74# IP
 #75# Port n°
 #76# Mot de passe
