@@ -41,7 +41,7 @@
 #39# Anti-crénelage
 #40# V-Sync
 #41# Résolution
-#42# Pressez une touche à définir ou Echap. pour quitter
+#42# Pressez la touche à redéfinir ou Echap. pour quitter
 #43# Enregistrer
 #44# Défaut
 #45# Raccourcis clavier
@@ -76,7 +76,7 @@
 #74# IP
 #75# Port n°
 #76# Mot de passe
-#77# Joindre
+#77# Rejoindre
 #78# Sélection du serveur
 #79# Ajout. aux favoris
 #80# Confirmer la suppression
@@ -149,7 +149,7 @@
 #147# Achat
 #148# Vente
 #149# Vaisseau précédent
-#150# Prochain vaisseau
+#150# Vaisseau suivant
 #151# Masse totale
 #152# Moment d'inertie
 #153# Masse du module
